@@ -1,2 +1,2 @@
 # java-design-pattern
-Learning Design Pattern by Examples
+Learning Design Pattern by Examples 
